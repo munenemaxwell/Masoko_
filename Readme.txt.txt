@@ -1,0 +1,1 @@
+testing jenkins + katalon automated suites trigger
